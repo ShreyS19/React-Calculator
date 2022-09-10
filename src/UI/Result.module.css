@@ -1,0 +1,13 @@
+.resultComponent {
+  width: 100%;
+  text-align: right;
+  background-color: grey;
+  color: white;
+  font-weight: 200;
+  flex: 0 0 auto;
+}
+
+.resultComponent > div {
+  font-size: 2.5rem;
+  padding: 0.2rem 0.3rem 0.4rem 0.3rem;
+}
